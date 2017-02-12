@@ -1,3 +1,2 @@
-#### Install Tornado ###
-# See http://www.tornadoweb.org/en/stable/
-tornado
+tornado==4.4.2
+pylint==1.6.5
